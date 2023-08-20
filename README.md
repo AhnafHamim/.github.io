@@ -1,7 +1,5 @@
 # Ahnaf Hamim's Portfolio
 
-![Your Picture (Optional)](241660169_1758091691246250_2605343083019463062_n.jpg) 
-
 ## About Me
 Hello! I'm Ahnaf Hamim. I'm an aspiring software engineer with a keen passion in data science and machine learning.
 
