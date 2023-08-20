@@ -3,7 +3,7 @@
 ![Your Picture (Optional)](your-picture-url.jpg) 
 
 ## About Me
-Hello! I'm [Your Name]. [Brief introduction about yourself. For example: "I'm a software developer with a passion for front-end technologies and UX design."]
+Hello! I'm Ahnaf Hamim. I'm an aspiring software engineer with a keen passion in data science and machine learning.
 
 ## My Work
 
@@ -13,12 +13,11 @@ Hello! I'm [Your Name]. [Brief introduction about yourself. For example: "I'm a 
 
 ## Skills
 
-- Skill 1 (e.g., JavaScript)
-- Skill 2 (e.g., Python)
-- Skill 3 (e.g., Web Design)
-... and so on.
+- Python
+- Web development (React)
+- Java
 
 ## Contact
 For collaborations, job opportunities, or any queries, feel free to reach out!
 
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
+- **Email:** [hamim.ahnaf@gmail.com](mailto:hamim.ahnaf@gmail.com)
